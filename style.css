@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background: #333333;
+  overflow: hidden;
+}
+
+.game-container {
+  position: relative;
+  width: 352px;
+  height: 198px;
+  margin: 0 auto;
+  margin-top: 20px;
+  outline: 1px solid #ffffff;
+}
+
+.game-canvas {
+  width: 352px;
+  height: 198px;
+}
